@@ -1,7 +1,7 @@
 # Supply-Chain-Analytics---SQL-Data-Analysis
 
 # Objective
-The database design will provide analysts working for the company in addressing the point to reduce the delay between customer’s order and production start to increase OTD (On-Time Delivery) with relevant and coherent datasets
+The database design will provide analysts with relevant and coherent data aiding in addressing the point to reduce the delay between customer’s order and production start to increase OTD (On-Time Delivery) 
 
 # Project Flow
 1. Gathering Customer Requirements
